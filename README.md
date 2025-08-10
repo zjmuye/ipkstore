@@ -20,7 +20,7 @@
 | luci-app-passwall2             | 代理工具           | [xiaorouji/openwrt-passwall2](https://github.com/xiaorouji/openwrt-passwall2)       |
 | luci-app-ssr-plus              | 代理工具                | [coolsnowwolf/luci-app-ssr-plus](https://github.com/coolsnowwolf/luci-app-ssr-plus) |
 | tailscale             | ZeroTier 类似的 VPN 工具，基于 WireGuard | [tailscale/tailscale](https://github.com/tailscale/tailscale)                       |
-
+| luci-app-lucky            | Lucky大吉,软硬路由公网神器,ipv6/ipv4 端口转发,反向代理 | [gdy666/lucky](https://github.com/gdy666/lucky)                       |
 ## ❤️其它GitHub Action项目推荐🌟 （建议收藏）⬇️
 - ### [一键生成run插件] 🆕
 - https://github.com/wukongdaily/RunFilesBuilder<br>
